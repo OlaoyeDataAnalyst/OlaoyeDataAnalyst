@@ -1,4 +1,5 @@
-[README.md](https://github.com/user-attachments/files/28125693/README.md)[Upload# 👋 Hi, I'm Olaoye Abosede Esther — @OlaoyeDataAnalyst
+[README_1.md](https://github.com/user-attachments/files/28198294/README_1.md)
+# 👋 Hi, I'm Olaoye Abosede Esther — @OlaoyeDataAnalyst
 
 > *"The journey of a thousand miles starts with a step."*
 
@@ -23,7 +24,7 @@ My *why* is simple: I am deeply passionate about **upskilling**, and I want to b
 | 📈 Power BI | Learning & Practicing |
 | 🐍 Python | Learning & Practicing |
 
-> *One tool at a time — depth over breadth. *
+> *One tool at a time — depth over breadth.*
 
 ---
 
@@ -31,25 +32,26 @@ My *why* is simple: I am deeply passionate about **upskilling**, and I want to b
 
 This profile is my open learning journal. You will find everything here — from assignments to full projects — because growth deserves to be documented, no matter the stage.
 
-### 🔹 Sales Performance Dashboard *(Excel)*
-An end-to-end sales analysis project featuring:
-- Cleaned and structured sales data across multiple product lines and countries (2003–2005)
-- Pivot Tables summarizing revenue by product, month, country, deal size, and top customers
-- An interactive **Dashboard** with KPI cards, charts, and key business insights
+---
 
-> Tools used: **Microsoft Excel** | Data: Sales transactions across 19 countries
+### 🚀 What's Next?
+---
+## 📊 Project 1 — Excel-Based Sales Data Analysis
 
-*More projects coming as I grow — watch this space! * 👀
+### Project Overview
+This project will focus on analysing a real-world sales dataset using **Microsoft Excel**. The goal would be to clean, explore, and visualise the data in order to extract meaningful business insights — covering top-selling products, regional performance, monthly sales trends, and customer value.
+
+This project is part of my learning journey in data analysis using Excel, SQL, Power BI, and Python.
 
 ---
 
 ## 🎯 Goals
 
-**Short-term: **
+**Short-term:**
 - Keep building real-world projects
 - Land a data analysis internship
 
-**Long-term: **
+**Long-term:**
 - Grow into a **Senior Data Analyst** in the **Finance or Healthcare** sector
 
 ---
@@ -65,13 +67,13 @@ I haven't locked in a niche yet — and that's okay. But the two industries I fi
 
 ## 👩‍🍳 A Little More About Me
 
-When I'm not analyzing data, I'm being a full-time mum — which means my hobbies are **cooking, washing, and cleaning** (because someone has to! 😄). Honestly though, the same care and attention I put into a home-cooked meal is the same energy I bring to every dataset I work on.
+When I'm not analysing data, I'm being a full-time mum — which means my hobbies are **cooking, washing, and cleaning** (because someone has to! 😄). Honestly though, the same care and attention I put into a home-cooked meal is the same energy I bring to every dataset I work on.
 
 ---
 
 ## 💬 A Note to Fellow Beginners
 
-If you made it this far — **thank you! ** 🙏
+If you made it this far — **thank you!** 🙏
 
 And if you're just starting out like me, I want you to know: **you are not alone**.
 
@@ -91,6 +93,4 @@ I'm always open to connecting with other learners, mentors, and data enthusiasts
 
 ---
 
-*⭐ Feel free to explore my repositories and leave a star if anything resonates with you! *
-
-ing README.md…]()
+*⭐ Feel free to explore my repositories and leave a star if anything resonates with you!*
