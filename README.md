@@ -50,7 +50,7 @@ in Power BI.
 
 🎯 Goals
 Short-term: Land a Data Analyst internship
-Long-term: Senior Data Analyst in Finance or Healthcare
+Long-term: Senior Data Analyst in Healthcare or Finance
 
 🌍 Industries I'm Passionate About
 🏥 Healthcare — using data to improve patient outcomes
