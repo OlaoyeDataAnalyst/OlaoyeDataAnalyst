@@ -53,7 +53,7 @@ Designed and implemented a computerized case filing system for the National Drug
 ## 📜 Certifications & Training
 
 - **Data Analysis and Visualization**, Ibadan Digital Academy (IDA) / 3MTT Program, 2026. Capstone projects submitted and vetted by the academy.
-- **Data Science Program**, CS Academy (starts 30 October 2026)
+- **Data Science Program**, TS Academy (starts 31 October 2026)
 - **Social Media Marketing Certification**, Skill2Scale Digital
 
 ## 🎯 What's Next
